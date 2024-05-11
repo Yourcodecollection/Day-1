@@ -2,13 +2,13 @@
 
 Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
 
-Live Demo - 
+Live Demo Light - https://yourcodecollection.github.io/Day_01_Personal_Portfolio/
 
 # Join Us
 
 GitHub-https://github.com/Yourcodecollection
 
-Instagram - 
+Instagram - https://www.instagram.com/your_code_collection/
 
 BuyMeACoffee - https://buymeacoffee.com/sahilkumar.dev
 
